@@ -22,7 +22,6 @@ int main()
                  cout<<"Point "<<p<<" is contained in figure "<<j+1<<endl;
                 flag=1;
             }
-
         }
         if(flag==0)
             cout<<"Point "<<p<<" is not contained in any figure"<<endl;
